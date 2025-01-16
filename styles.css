@@ -1,0 +1,114 @@
+* { 
+    margin: 0;
+    box-sizing: border-box;
+     }   
+header {
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    color: rgb(99, 0, 0);
+    padding: 0;
+    z-index: 1000;
+    position: fixed;
+    background-image: url(animation-of-abstract-glowing-glitter-particles-flight-of-bright-dots-and-particles-on-a-red-background-seamless-loop-video.jpg);
+    background-size: contain;
+    background-position: top;
+}
+h1{
+    color:rgb(109, 2, 40);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 900%;
+}
+section {
+	width: 185px;
+	height: 202px;
+	border: 3px solid rgb(99, 0, 0);
+	display: inline-block; 
+	padding: 0px;
+	margin: 10px;
+	font-family:fantasy;
+	font-size: 15px;
+	text-align: center;
+	color: rgb(99, 0, 0);
+    position: relative;
+    top: 425px;
+    color:rgb(99, 0, 0);
+    left:32%;
+    border-spacing: 50px;
+}
+.lawfulgood {
+    background-image: url(download\ \(1\).jpeg);
+    width: 240px;
+    height:240px;
+    border: 10px solid rgba(121, 24, 13, 0.922);
+}
+.neutralgood {
+	background-image: url(download\ \(2\).jpeg);
+    width: 240px;
+    height:240px;
+    border: 10px solid rgb(121, 24, 13, 0.922);
+}
+.chaoticgood {
+	background-image: url(download\ \(3\).jpeg);
+    width: 240px;
+    height:240px;
+    border: 10px solid rgb(121, 24, 13, 0.922);
+}
+.lawfulneutral {
+	background-image: url(download\ \(4\).jpeg);
+    width: 240px;
+    height:240px;
+    border: 10px solid rgb(121, 24, 13, 0.922);
+}
+.trueneutral {
+	background-image: url(download\ \(5\).jpeg);
+    width: 240px;
+    height:240px;
+    border: 10px solid rgb(121, 24, 13, 0.922);
+}
+.chaoticneutral {
+	background-image: url(ab67706c0000da848307571d0bfa0dde8946c128.jpeg);
+    width: 240px;
+    height:240px;
+    border: 10px solid rgb(121, 24, 13, 0.922);
+}
+main{
+    background-color: rgb(99, 0, 0);
+    background-image: url(animation-of-abstract-glowing-glitter-particles-flight-of-bright-dots-and-particles-on-a-red-background-seamless-loop-video.jpg);
+}
+body{
+    background-color:rgb(99, 0, 0);
+    background-image: url(animation-of-abstract-glowing-glitter-particles-flight-of-bright-dots-and-particles-on-a-red-background-seamless-loop-video.jpg);
+}
+.Navbar ul{
+    list-style-type: none;
+    background-image: url(animation-of-abstract-glowing-glitter-particles-flight-of-bright-dots-and-particles-on-a-red-background-seamless-loop-video.jpg);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+  }
+  .Navbar {
+    position: relative;
+    bottom: 323px;
+  }
+  .Navbar a{
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+  }
+  .Navbar a:hover{
+    background-color: hsl(0, 0%, 10%);
+  }
+  .Navbar li{
+    float: left;
+  }
+  h2{
+    border: 10px solid rgba(0, 0, 0, 0.922);
+    position:relative;
+    top:400px;
+    left:1000px;
+  }
